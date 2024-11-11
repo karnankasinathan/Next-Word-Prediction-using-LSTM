@@ -207,7 +207,7 @@ def create_model(total_words, max_sequence_len):
 ## OUTPUT
 ### 1. fit_vectorizer output
 
-![image](https://github.com/user-attachments/assets/9f214f60-89cd-4326-bffa-860a12669a46)
+![Screenshot 2024-11-11 114233](https://github.com/user-attachments/assets/eaa582e6-93a7-4e1f-95a2-4f80318b3554)
 
 
 ### 2. n_grams_seqs output
