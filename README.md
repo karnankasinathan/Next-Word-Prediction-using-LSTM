@@ -28,8 +28,8 @@ Build the model with an Embedding layer, Bidirectional LSTM for sequence process
 Compile and train the model using categorical cross-entropy loss and the Adam optimizer.
 
 ## PROGRAM
-### Name: Hemasonica P
-### Register Number:212221230048
+### Name: karnan K
+### Register Number:212221230062
 ### 1.fit_vectorizer function
 ```
 def fit_vectorizer(corpus):
