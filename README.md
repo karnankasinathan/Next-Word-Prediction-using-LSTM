@@ -29,7 +29,7 @@ Compile and train the model using categorical cross-entropy loss and the Adam op
 
 ## PROGRAM
 ### Name: karnan K
-### Register Number:212221230062
+### Register Number:212222230062
 ### 1.fit_vectorizer function
 ```
 def fit_vectorizer(corpus):
